@@ -1,2 +1,3 @@
-# recco
-Terminal UI audio recorder
+# Requirements:
+- pulseaduio
+- jq
